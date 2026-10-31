@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋, Hey, I am Amena Akter Akhi
+#### Turning curiosity into creativity ✨
+![Turning curiosity into creativity ✨](https://github.com/AkhiAmina/AkhiAmina/blob/main/WhatsApp%20Image%202026-10-31%20at%2011.08.30%20PM.jpeg)
+
+👋 Hi, I'm a Computer Science & Engineering student.
+💻 Passionate about programming and software development. Driven by curiosity, inspired by innovation. Always learning, always becoming better.
 
 
-**AkhiAmina/AkhiAmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Small software development projects. 
+- 🌱 I’m currently learning  Python, Web Development & AI. 
+- 👯 I’m looking to collaborate on Creative and real-world projects. 
+- 🤔 I’m looking for help with Improving my coding and problem-solving skills. 
+- 💬 Ask me about C, C++, Python & Web Development. 
+- 📫 How to reach me: Through GitHub. 
+- 😄 Pronouns: She/Her. 
+- ⚡ Fun fact:  I believe every expert was once a beginner! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amena Akter Akhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amina akhi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Alviya Akhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhiiiiiii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Amina Akhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Amena Akter Akhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/www.youtube.com/@AminaAkhi-i7)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amena Akter Akhi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amena Akter Akhi&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Amena Akter Akhi/contributions?format=svg&private=false)  
 
